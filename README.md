@@ -15,6 +15,7 @@ A simple and secure **Password Generator** built with **HTML, CSS, and JavaScrip
 ✅ Modern & user-friendly **glassmorphism UI**  
 ✅ Fully **responsive** (works on mobile & desktop)  
 
+<img width="718" alt="image" src="https://github.com/user-attachments/assets/5fbf7aec-a366-473e-b0ee-73586f57be35" />
 
 
 
